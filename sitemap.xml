@@ -2,7 +2,12 @@
 <urlset>
     <url>
         <loc>
-            http://localhost:8000/hello-world/
+            http://localhost:8000/top-5-hidden-gems-in-istanbul/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/a-guide-to-istanbuls-street-food/
         </loc>
     </url>
     <url>
